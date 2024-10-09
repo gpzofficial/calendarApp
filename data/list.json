@@ -1,0 +1,17 @@
+{
+    "20241009":
+    [
+        {"name": "S1", "start": 95, "end": 105, "type": "KoreaUniv", "ping": false},
+        {"name": "S2", "start": 870, "end": 880, "type": "KoreaUniv", "ping": false},
+        {"name": "S2", "start": 870, "end": 880, "type": "KoreaUniv", "ping": false},
+        {"name": "S2", "start": 870, "end": 880, "type": "KoreaUniv", "ping": false},
+        {"name": "S2", "start": 870, "end": 880, "type": "KoreaUniv", "ping": false},
+        {"name": "S2", "start": 870, "end": 880, "type": "KoreaUniv", "ping": false},
+        {"name": "S2", "start": 870, "end": 880, "type": "KoreaUniv", "ping": false}
+    ],
+    "20241010":
+    [
+        {"name": "S3", "start": 990, "end": 1065, "type": "KoreaUniv"},
+        {"name": "S4", "start": 870, "end": 880, "type": "KoreaUniv"}
+    ]
+}
